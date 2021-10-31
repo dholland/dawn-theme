@@ -40,11 +40,47 @@
       "type": "contact-form",
       "settings": {
       }
+    },
+    "16356498652754b779": {
+      "type": "image-with-text",
+      "blocks": {
+        "16356498652754b779-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16356498652754b779-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mooch is a well traveled guy.  He knows all the things about the best accommodations and how to score the best deals in town.  Once he found a 5 star hotel for 75$\/night!<\/p>"
+          }
+        },
+        "16356498652754b779-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16356498652754b779-0",
+        "16356498652754b779-1",
+        "16356498652754b779-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG-0495.jpg",
+        "height": "large",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "1635460482b47928a1",
     "main",
-    "form"
+    "form",
+    "16356498652754b779"
   ]
 }
