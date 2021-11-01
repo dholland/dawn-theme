@@ -7,15 +7,25 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Welcome to our store",
               "color_scheme": "accent-2",
               "link": ""
             }
+          },
+          "fa527ae3-7596-4a81-9cd2-2b84862991f3": {
+            "type": "announcement",
+            "settings": {
+              "text": "Welcome!",
+              "color_scheme": "inverse",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "fa527ae3-7596-4a81-9cd2-2b84862991f3"
         ],
         "settings": {
         }
@@ -36,6 +46,7 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
@@ -43,6 +54,7 @@
           },
           "ebe8d121-196a-4594-a038-298a66b555e2": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
@@ -50,6 +62,7 @@
           },
           "538fb94d-5bd9-4e48-8f7d-26ff4958d835": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
