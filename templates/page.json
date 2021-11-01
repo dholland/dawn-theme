@@ -8,13 +8,6 @@
     "16357843391e1fa022": {
       "type": "image-banner",
       "blocks": {
-        "16357843391e1fa022-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
         "16357843391e1fa022-1": {
           "type": "text",
           "disabled": true,
@@ -36,7 +29,6 @@
         }
       },
       "block_order": [
-        "16357843391e1fa022-0",
         "16357843391e1fa022-1",
         "16357843391e1fa022-2"
       ],
@@ -47,10 +39,46 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
+    },
+    "16357845375e027a4c": {
+      "type": "rich-text",
+      "blocks": {
+        "16357845375e027a4c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Greener Livin'",
+            "heading_size": "medium"
+          }
+        },
+        "16357845375e027a4c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Take your indoor plant status to the next level!<\/p>"
+          }
+        },
+        "16357845375e027a4c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16357845375e027a4c-0",
+        "16357845375e027a4c-1",
+        "16357845375e027a4c-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
-    "16357843391e1fa022"
+    "16357843391e1fa022",
+    "16357845375e027a4c"
   ]
 }
