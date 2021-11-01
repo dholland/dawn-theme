@@ -33,11 +33,10 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/Asset_3_2x_3a6caee1-3a96-4393-b065-1ac35ae7780d.png",
           "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
-          "show_line_separator": true,
+          "show_line_separator": false,
           "enable_sticky_header": true
         }
       },
